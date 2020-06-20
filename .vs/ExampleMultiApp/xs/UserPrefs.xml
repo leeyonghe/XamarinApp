@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F3900FB1-5B2B-46C5-85AF-B944546461F1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleMultiApp" expanded="True">
+            <Node name="ExampleMultiApp" expanded="True">
+              <Node name="App.cs" selected="True" />
+            </Node>
+            <Node name="ExampleMultiApp.Droid" expanded="True">
+              <Node name="Activities" expanded="True" />
+            </Node>
+            <Node name="ExampleMultiApp.iOS" expanded="True">
+              <Node name="ViewControllers" expanded="True">
+                <Node name="DetailViewControllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExampleMultiApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F7D11FA1-8CA7-4844-83F9-1A67F0C03A84" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

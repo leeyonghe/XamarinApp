@@ -1,0 +1,25 @@
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/ExampleMultiApp.iOS.exe
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/ExampleMultiApp.iOS.pdb
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_PartialAppManifest.items
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_BundleResourceWithLogicalName.items
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_PartialAppManifest.items
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/optimized/
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/ExampleMultiApp.iOS.csprojAssemblyReference.cache
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/ExampleMultiApp.iOS.csproj.CopyComplete
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/ExampleMultiApp.iOS.exe
+/Users/leedev/Desktop/Storage/XamarinApp/iOS/obj/iPhoneSimulator/Debug/ExampleMultiApp.iOS.pdb
