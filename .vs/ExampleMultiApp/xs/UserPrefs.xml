@@ -4,11 +4,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExampleMultiApp" expanded="True">
-            <Node name="ExampleMultiApp" expanded="True">
-              <Node name="App.cs" selected="True" />
-            </Node>
+            <Node name="ExampleMultiApp" expanded="True" />
             <Node name="ExampleMultiApp.Droid" expanded="True">
-              <Node name="Activities" expanded="True" />
+              <Node name="Activities" expanded="True">
+                <Node name="MainActivity.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="ExampleMultiApp.iOS" expanded="True">
               <Node name="ViewControllers" expanded="True">
@@ -20,7 +20,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ExampleMultiApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F7D11FA1-8CA7-4844-83F9-1A67F0C03A84" />
+  <MonoDevelop.Ide.ItemProperties.ExampleMultiApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
